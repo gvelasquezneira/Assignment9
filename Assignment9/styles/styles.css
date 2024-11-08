@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background: #cef9ff;
+    color: #000;
+  }
+  div {
+    border: 1px solid #999;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+    background: #7aefff;
+  }
+  img {
+    display: block;
+    border: 1px solid #666;
+    background: #fff;
+    padding: 1rem;
+  }
+  p {
+    line-height: 1.4;
+  }
+  
